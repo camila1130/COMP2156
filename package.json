@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/camila1130/COMP2156/issues"
   },
-  "homepage": "https://github.com/camila1130/COMP2156#readme"
+  "homepage": "https://github.com/camila1130/COMP2156#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
